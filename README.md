@@ -4,6 +4,14 @@ author : Yingkai Liu
 
 updated : Aug.2017
 
+
+-----------
+**NOTE**
+
+**This project has fulfilled my expectation, so I will let it rest for a while**
+**This is document for `populationclass.py` in `/old`, new documentation will be coming out**
+# **THIS WINTER VACATION**
+-----------
 status: still incomplete, even this documentation is incomplete
 
 ## 1. code overview
