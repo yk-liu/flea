@@ -1,4 +1,4 @@
-# Documentation for List-based Evolutionary Algorithm
+# *F*lexible *L*ist-based *E*volutionary *A*lgorithm
 
 ![logo by Yifei Liu](https://raw.githubusercontent.com/yk-liu/flea/master/flea.jpg)
 
