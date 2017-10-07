@@ -1,5 +1,9 @@
 # Documentation for List-based Evolutionary Algorithm
 
+![logo by Yifei Liu](https://raw.githubusercontent.com/yk-liu/flea/master/flea.jpg)
+
+Logo Design: Yifei Liu
+
 author : Yingkai Liu
 
 updated : Aug.2017
