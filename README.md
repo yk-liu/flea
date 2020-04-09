@@ -1,10 +1,6 @@
 # *F*lexible *L*ist-based *E*volutionary *A*lgorithm
 
-![logo by Yifei Liu](https://raw.githubusercontent.com/yk-liu/flea/master/flea.jpg)
-
-Logo Design: Yifei Liu
-
-author : Yingkai Liu
+Author : Yingkai Liu
 
 updated : Aug.2017
 
